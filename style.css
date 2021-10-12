@@ -1,0 +1,29 @@
+.header{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    border-radius: 0px;
+    box-shadow: 5px 5px 5px gray;
+}
+.NOTE{
+    font-size: 15px;
+    color: black;
+}
+body{
+    font-family: 'Geo', sans-serif; 
+}
+.copyright_footer{
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    background-color: navy;
+    color: turquoise;
+    line-height: 3;
+    font-size: 15px;
+}
+canvas{
+    border:5px solid turquoise;
+    border-radius: 20px;
+    box-shadow:5px 5px 5px darkgrey;
+}
